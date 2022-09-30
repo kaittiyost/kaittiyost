@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 # สวัสดีครับ ยินดีต้อนรับสู่ Gihub Profile ของผม <br>
 ##### สามารถดูผลงานของผมได้ทางเว็บไซต์นี้เลย https://sites.google.com/msu.ac.th/kiattiyotsihawong
 <br><br>
-###ทักษะทางด้านโปรแกรมมิ่งของผม
-> Java
-> PHP
-> NodeJs
-> HTML CSS
-> Javascript
-> Flutter
+###ทักษะทางด้านโปรแกรมมิ่งของผม<br>
+> Java <br>
+> PHP <br>
+> NodeJs <br>
+> HTML CSS <br>
+> Javascript <br>
+> Flutter <br>
 ---
-###ทักษะการจัดการระบบฐานข้อมูล
-> MySQL
-> Oracle
+###ทักษะการจัดการระบบฐานข้อมูล <br>
+> MySQL<br>
+> Oracle<br>
 ---
-###ทักษะทางด้านเครือข่ายและความปลอดภัยไซเบอร์
-> Basic configuration network
-> Cisco packet tracer
-> Linux Ubuntu server
+###ทักษะทางด้านเครือข่ายและความปลอดภัยไซเบอร์<br>
+> Basic configuration network<br>
+> Cisco packet tracer<br>
+> Linux Ubuntu server<br>
