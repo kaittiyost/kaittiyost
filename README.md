@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 Email : kaittiyost22.sihawong@gmail.com
+:telephone: Tel : 061 170 0796
+# สวัสดีครับ ยินดีต้อนรับสู่ Gihub Profile ของผม
+### สามารถดูผลงานของผมได้ทางเว็บไซต์นี้เลย https://sites.google.com/msu.ac.th/kiattiyotsihawong
