@@ -38,3 +38,5 @@ github ของผมได้รวบรวมโค๊ดของโปร�
 > Basic configuration network<br>
 > Cisco packet tracer<br>
 > Linux Ubuntu server<br>
+
+![Github Graph](https://drive.google.com/file/d/1Ohcvz2SoA2StNd643swAyRlVwBSUwE7v/view?usp=sharing)
