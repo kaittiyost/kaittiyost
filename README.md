@@ -39,4 +39,4 @@ github ของผมได้รวบรวมโค๊ดของโปร�
 > Cisco packet tracer<br>
 > Linux Ubuntu server<br>
 
-![image](https://imgur.com/a/CzKi1sw)
+![pxqP8I.png](https://sv1.picz.in.th/images/2022/09/30/pxqP8I.png)
