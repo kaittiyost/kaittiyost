@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ###ทักษะการจัดการระบบฐานข้อมูล <br>
 > MySQL<br>
 > Oracle<br>
+> PL/SQL <br>
 ---
 ###ทักษะทางด้านเครือข่ายและความปลอดภัยไซเบอร์<br>
 > Basic configuration network<br>
